@@ -8,3 +8,6 @@
 *Searches and downloads the music from YouTube*
 - [LogChecker](https://github.com/SleepySpeller/LogChecker)
 *Checks your Minecraft server's logs for usage of any illegal commands, can also download them from an FTP server*
+## Java
+- [AOMEI](https://github.com/SleepySpeller/AOMEI)
+*Minecraft Plugin that was used in TheThreatGames Year 2 Event*
