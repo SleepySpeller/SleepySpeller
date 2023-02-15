@@ -1,7 +1,7 @@
 # About
 -  Hey, I'm  SleepySpeller 👋
 -  I do small projects in Python and Java, just kind of for fun 😁
--  If you want to reach me, you can email me on support@slpy.ml or slpyspeller42@gmail.com 📧
+-  If you want to reach me, you can email me on slpyspeller42@gmail.com 📧
 # Projects that I did:
 ## Python
 - [YourOpenMP3](https://github.com/SleepySpeller/YourOpenMP3)
